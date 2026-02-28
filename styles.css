@@ -1,0 +1,120 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #111;
+    color: white;
+    text-align: center;
+    margin: 0;
+}
+
+header {
+    background-color: rgb(45, 15, 90);
+    padding: 40px;
+}
+
+h2 {
+    color: aqua;
+}
+
+#DQ {
+    color: blueviolet;
+}
+
+#cosas {
+    color: red;
+    font-size: 40px;
+}
+
+p {
+    color:white;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+}
+
+img{
+    width: 250px;
+    height: auto;
+}
+
+#titulo{
+    color: gray;
+    font-family: cursive;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: none;
+    background-color: rgb(123, 22, 123);
+    color: rgb(254, 254, 254);
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: gray;
+}
+
+body {
+    background-color: #111;
+}
+
+.sabias-que {
+    background-color: #1e1e1e;
+    color: white;
+    border-left: 5px solid #38aea4;
+}
+
+
+
+.contenido-sabias {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.contenido-sabias img {
+    width: 200px;
+    border-radius: 10px;
+}
+
+.MisCelos{
+    background-color: #1e1e1e;
+    color: white;
+    border-left: 5px solid #38aea4;
+    gap: 20px;
+}
+
+.MisCelos img {
+    width: 200px;
+    border-radius: 40px;
+}
+
+.texto{
+    font-size: 25px;
+}
+
+@media (max-width: 768px) {
+    .sabias-que {
+        margin: 20px;
+    }
+}
+
+.sabias-que2 {
+    background-color: #1e1e1e;
+    color: white;
+    border-left: 5px solid #38aea4;
+}
+
+
+
+.contenido-sabias2 {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.contenido-sabias2 img {
+    width: 200px;
+    border-radius: 10px;
+}
