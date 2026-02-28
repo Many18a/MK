@@ -55,17 +55,11 @@ button:hover {
     background-color: gray;
 }
 
-body {
-    background-color: #111;
-}
-
 .sabias-que {
     background-color: #1e1e1e;
     color: white;
     border-left: 5px solid #38aea4;
 }
-
-
 
 .contenido-sabias {
     display: flex;
@@ -100,19 +94,11 @@ body {
     }
 }
 
-
-
-
-
-
-
 .sabias-que2 {
     background-color: #1e1e1e;
     color: white;
     border-left: 5px solid #38aea4;
 }
-
-
 
 .contenido-sabias2 {
     display: flex;
